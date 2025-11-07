@@ -1,0 +1,43 @@
+CLUSTERING ANALYSIS REPORT
+============================================================
+
+--- Cluster 0 ---
+   Dominant Semantic Label: 'metal structure'
+   Number of Images: 14
+   Sample Files: 1.png, 11.png, 13.png, 1_no_bg.png, 2.png
+
+--- Cluster 1 ---
+   Dominant Semantic Label: 'bolt connection'
+   Number of Images: 16
+   Sample Files: 66.png, 70.png, 71.png, 72.png, 73.png
+
+--- Cluster 2 ---
+   Dominant Semantic Label: 'damaged tower'
+   Number of Images: 5
+   Sample Files: 65.png, 68.png, 77.png, 85.png, 89.png
+
+--- Cluster 3 ---
+   Dominant Semantic Label: 'structural damage'
+   Number of Images: 16
+   Sample Files: 17.png, 18.png, 19.png, 33.png, 34.png
+
+--- Cluster 4 ---
+   Dominant Semantic Label: 'damaged tower'
+   Number of Images: 6
+   Sample Files: 26.png, 27.png, 3.png, 60.png, 8.png
+
+--- Cluster 5 ---
+   Dominant Semantic Label: 'damaged tower'
+   Number of Images: 9
+   Sample Files: 12.png, 14.png, 15.png, 16.png, 39.png
+
+--- Cluster 6 ---
+   Dominant Semantic Label: 'metal structure'
+   Number of Images: 17
+   Sample Files: 10.png, 22.png, 23.png, 28.png, 29.png
+
+--- Cluster 7 ---
+   Dominant Semantic Label: 'tight bolt'
+   Number of Images: 7
+   Sample Files: 20.png, 21.png, 24.png, 25.png, 56.png
+
